@@ -23,6 +23,13 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 ---
 
+## 🎯 My Goals for 2025
+- Master **Next.js** for full-stack development.
+- Contribute to open-source projects.
+- Improve my English proficiency.
+
+---
+
 ## 🌟 Projects
 
 ### [Game Universe](https://github.com/enricocurreli/Game-Universe)
@@ -70,7 +77,9 @@ I'm eager to specialize in **web application security**, implementing advanced p
 ## 🌍 Languages
 
 - **Italian:** Native
-- **English:** Intermediate (B1, working towards certification)
+- **English:** Intermediate (B1)  
+  *Currently enrolled in an English course to achieve B2 certification.*
+
 
 ---
 
