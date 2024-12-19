@@ -59,6 +59,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 ## 📚 Education & Certifications
 
+- **Aulab Coding AI Specialization (01/2024 - 02/2025)
 - **Aulab Masterclass:** React.js & JavaScript (06/2024 - 09/2024)  
 - **Aulab Bootcamp:** Full Stack Developer Junior (02/2024 - 05/2024)  
 - **Bachelor's Degree:** Informatica per le Aziende Digitali (L-31), Università Telematica Pegaso (in progress)  
@@ -78,7 +79,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 - **Italian:** Native
 - **English:** Intermediate (B1)  
-  *Currently enrolled in an English course to achieve B2 certification.*
+  *Currently enrolled in an English course to achieve B2 certification Linguaskill by Cambridge Assessment English.*
 
 
 ---
