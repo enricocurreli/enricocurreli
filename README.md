@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer Junior  
 
-Hi there! I'm Enrico, a passionate **Full Stack Web Developer Junior** with a keen interest in building robust, user-friendly, and secure web applications. I have developed my skills through academic training and professional bootcamps, including Aulab’s Full Stack Development program and advanced React.js Masterclasses. My primary focus is creating clean, maintainable code and delivering exceptional user experiences.
+Hi there! I'm Enrico, a passionate **Full Stack Web Developer Junior** with a keen interest in building robust, user-friendly, and secure web applications. I have developed my skills through academic training and professional bootcamps, including Aulab’s Full Stack Development program and advanced React.js Masterclasses, and I’m currently attending the Adecco Academy MuleSoft, an intensive program focused on integration, APIs, and real-world projects to prepare for the official MuleSoft Developer certification. My primary focus is creating clean, maintainable code and delivering exceptional user experiences. 
 
 I'm eager to specialize in **web application security**, implementing advanced protection measures to ensure user data safety, and contributing to stimulating projects—whether locally or abroad.
 
@@ -16,7 +16,10 @@ I'm eager to specialize in **web application security**, implementing advanced p
 **Frameworks & Tools:**
 - React, Laravel, Bootstrap, Tailwind CSS, daisyUI, MagicUI  
 - SCRUM, Agile Methodologies  
-- Git, GitHub  
+- Git, GitHub
+
+**Integration & API Platforms:**  
+- **MuleSoft (Anypoint Studio, Anypoint Platform, DataWeave)**    
 
 **Operating Systems & Software:**
 - UNIX, MacOS, Windows, MS Office
@@ -24,6 +27,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 ---
 
 ## 🎯 My Goals for 2025
+- Obtain MuleSoft Developer Level 1 certification
 - Master **Next.js** for full-stack development.
 - Contribute to open-source projects.
 - Improve my English proficiency.
@@ -59,8 +63,10 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 ## 📚 Education & Certifications
 
-- **Aulab Coding AI Specialization (01/2024 - 02/2025)
-- **Aulab Masterclass:** React.js & JavaScript (06/2024 - 09/2024)  
+- **Adecco Accademy Mulesoft** (06/2025 - 07/2025)
+     Intensive training focused on APIs, integrations, and enterprise use cases. Includes hands-on projects and prep for MuleSoft certification.
+- **Aulab Coding AI Specialization** (01/2024 - 02/2025)
+- **Aulab Masterclass: React.js & JavaScript** (06/2024 - 09/2024)  
 - **Aulab Bootcamp:** Full Stack Developer Junior (02/2024 - 05/2024)  
 - **Bachelor's Degree:** Informatica per le Aziende Digitali (L-31), Università Telematica Pegaso (in progress)  
 - **High School Diploma:** Liceo Scientifico (2012 - 2018)  
@@ -78,9 +84,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 ## 🌍 Languages
 
 - **Italian:** Native
-- **English:** Intermediate (B1)  
-  *Currently enrolled in an English course to achieve B2 certification Linguaskill by Cambridge Assessment English.*
-
+- **English:** Intermediate (B1+)  
 
 ---
 
