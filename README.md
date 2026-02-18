@@ -21,7 +21,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 - Git, GitHub, Postman
 
 **Database & ORM:**
-- MySQL, PostgreSQL, TypeORM, Supabase
+- MySQL, TypeORM, Supabase
 
 **Integration & API Platforms:**
 - MuleSoft (Anypoint Studio, Anypoint Platform, DataWeave)
