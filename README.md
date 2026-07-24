@@ -6,7 +6,7 @@ Hi there! I'm Enrico, a Full Stack Web Developer and MuleSoft Developer passiona
 
 I recently completed my **Bachelor's thesis**: a full-stack, API-based application for the **healthcare sector**, built with NestJS, TypeORM and MySQL.
 
-I'm currently working as a **MuleSoft Developer intern at Skylabs**, focusing on API-led integration, DataWeave transformations, and enterprise use cases on Anypoint Platform.
+I'm currently working as a **MuleSoft / Web Developer intern at Skylabs**, focusing on API-led integration, DataWeave transformations, enterprise use cases on Anypoint Platform, and frontend technologies using TypeScript.
 
 I'm eager to specialize in **web application security**, implementing advanced protection measures to ensure user data safety, and contributing to stimulating projects — whether locally or abroad.
 
@@ -20,10 +20,10 @@ I'm eager to specialize in **web application security**, implementing advanced p
 **Frameworks & Tools:**
 - React, NestJS, Laravel, Bootstrap, Tailwind CSS, daisyUI, MagicUI
 - SCRUM, Agile Methodologies
-- Git, GitHub, Postman
+- Git, GitHub, Bitbucket, Postman
 
 **Database & ORM:**
-- MySQL, TypeORM, Supabase
+- MySQL, TypeORM
 
 **Integration & API Platforms:**
 - MuleSoft (Anypoint Studio, Anypoint Platform, DataWeave)
@@ -36,12 +36,10 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 ## 🎯 My Goals for 2026
 
-- 🎓 Graduate with Bachelor's Degree in Computer Science
-- 🔗 Grow as a MuleSoft Developer and pursue MuleSoft certification (DEX401)
-- 🔧 Master NestJS for scalable and secure backend development
+- 🔗 Grow as a MuleSoft / Web Developer
+- 🔧 Master NestJS for scalable backend development and learn a new technology
 - 🌐 Contribute to open-source projects
 - 🔒 Deepen knowledge in web application security
-- 🇬🇧 Achieve English B2 certification
 
 ---
 
@@ -91,7 +89,7 @@ I'm eager to specialize in **web application security**, implementing advanced p
 
 ## 💼 Work Experience
 
-- **MuleSoft Developer Intern (03/2026 – present):** Working at Skylabs on API-led integration projects using Anypoint Studio, DataWeave, and Anypoint Platform.
+- **MuleSoft / Web Developer Intern (03/2026 – present):** Working at Skylabs on API-led integration projects using Anypoint Platform/Studio, Data Weave and frontend     technologies. 
 - **Freelancer (2020 – 2024):** Assembled and optimized PC builds, conducted OS installations, and ensured compatibility of hardware components.
 - **Lifeguard (2020 – 2022):** Assisted with beach safety at Arbus (SU) – Costa Verde.
 - **Marine Technician (2023):** Supported maintenance at shipyards in Gallura.
